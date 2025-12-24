@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
-public void m2(){
-	//Business logic 
-=======
+
+
 Class User{
 	
 	int uid;
@@ -12,6 +10,7 @@ Class User{
 		System.out.println("m1() is executing...");
 		//logic
 	}
-	
->>>>>>> Stashed changes
+	public void m2(){
+	//Business logic 
+}
 }
